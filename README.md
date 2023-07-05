@@ -1,8 +1,9 @@
 # ui_24june
 
-A new Flutter project.
-
 ## Getting Started
+
+<img src="https://github.com/govindgurjar/transaction_page_ui/assets/83970520/3cb9b1cc-777a-4f95-927d-d64c0bc215d9" alt="drawing" width="330"/>
+
 
 This project is a starting point for a Flutter application.
 
